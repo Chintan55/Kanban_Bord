@@ -31,7 +31,7 @@ A simple and interactive **Kanban Board Application** built with React.js to org
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Chintan55/Kanban_Bord.git
 ```
 
 ### 2. Navigate to the project folder
