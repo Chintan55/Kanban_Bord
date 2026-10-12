@@ -24,8 +24,6 @@ A simple and interactive **Kanban Board Application** built with React.js to org
 - React Feather Icons
 - React Hooks (`useState`, `useRef`)
 
-> Create a `screenshots` folder in your project and add your screenshot as `kanban-board.png`.
-
 ## ⚙️ Installation and Setup
 
 ### 1. Clone the repository
