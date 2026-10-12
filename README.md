@@ -103,10 +103,5 @@ Contributions, issues, and feature requests are welcome.
 4. Push the branch.
 5. Open a Pull Request.
 
-## 📄 License
-
-This project is available under the MIT License. Add a `LICENSE` file if you intend to distribute it under that license.
-
----
 
 **Developed with ❤️ using React.js**
